@@ -111,7 +111,7 @@ export default function Home() {
               </div>
 
               <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl">
-                Will you be my Valentine my love?
+                Will you be my Valentine my Leanne?
               </h1>
 
               <div className="relative mt-4 flex items-center justify-center gap-4 w-full h-32">
