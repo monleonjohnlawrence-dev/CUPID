@@ -123,7 +123,7 @@ export default function Home() {
                   onClick={handleYes}
                   className="z-10 flex h-14 items-center justify-center gap-2 rounded-full bg-pink-500 px-8 text-lg font-bold text-white transition-transform hover:scale-110 active:scale-95 shadow-lg"
                 >
-                  YES! 💖
+                  YES! 
                 </button>
 
                 <motion.button
@@ -155,7 +155,7 @@ export default function Home() {
                 YAY! I KNEW IT!
               </h1>
               <p className="text-xl text-zinc-600 dark:text-zinc-400">
-                I LOVE YOU SO MUCH! HAPPY VALENTINE'S DAY! 💕
+                I LOVE YOU SO MUCH! HAPPY VALENTINE'S DAY! 
               </p>
               <div className="flex gap-2">
                 <Heart className="fill-pink-500 text-pink-500 animate-bounce" />
